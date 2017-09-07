@@ -12,7 +12,7 @@ namespace STORJOW
         public Russian Rus;
         public English Eng;
 
-       
+       //123321
         public class Russian
         {
 
@@ -26,6 +26,7 @@ namespace STORJOW
            
 
         }
+
 
         public class English
         {
